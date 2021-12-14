@@ -11,6 +11,6 @@
 
 # Technology used:-
 - Python(python-flask)
--
+
 # Creator:-
 - Bhargav Patel
