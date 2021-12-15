@@ -1,5 +1,5 @@
-# Plagarism checker using python:-
-- This is simple python application for checking plagarism with the use of python-flask.
+# plagiarism  checker using python:-
+- This is simple python application for checking plagiarism  with the use of python-flask.
 - It enables the system to obtain documents fast in the same way that a search query does.
 - Instead of collecting documents that are comparable to a query, it uses the same principle to see how similar the query is to an existing database file.
 
